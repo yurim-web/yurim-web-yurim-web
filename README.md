@@ -1,14 +1,5 @@
 # 👋 Hi, I'm Yurim!
 
-## 🚀 About Me
-
-- 🔭 현재 **프론트엔드 개발자**가 되기 위해 공부 중입니다.  
-- 🌱 **React, HTML/CSS/JavaScript** 등 웹 프론트엔드 기술을 학습하고 있습니다.  
-- 🎯 **UI/UX, 웹 디자인**, 그리고 **사용자 친화적인 인터페이스**에 관심이 많습니다.  
-- 💡 언제나 **새로운 기술을 배우고 협업**하는 것에 열려 있습니다.
-
----
-
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=default" height="165"/>
@@ -40,15 +31,3 @@
 
 ---
 
-## 🗂 내가 만든 사이트
-
-| 프로젝트 | 설명 | 링크 |
-|---|---|---|
-| **Groundplace 숙소 사이트 (Clone)** | 숙소 예약 플랫폼 클론 코딩 | [Live Site](https://yurim-web.github.io/groundplace_clone/) |
-| **IMELE 화장품 사이트 (Clone)** | 화장품 브랜드 클론 코딩 | [Live Site](https://yurim-web.github.io/imele_clone/) |
-| **Movie Collection (API Practice)** | 영화 API를 활용한 영화 모음 사이트 | [Live Site](https://movie-api-portfolio.vercel.app/) |
-| **YSL (입생로랑) 창작 사이트** | 하이엔드 브랜드 창작 페이지 | [Live Site](https://yurim-web.github.io/YSL_portfolio_/) |
-| **Avengers 창작 사이트** | 마블 어벤져스 테마 창작 페이지 | [Live Site](https://yurim-web.github.io/avengers_portfolio/) |
-| **TodoList** | 할 일 관리 애플리케이션 | [Live Site](https://yurim-web.github.io/TODOLIST_page/) |
-| **Apple (Clone)** | 애플 공식 홈페이지 클론 코딩 | [Live Site](https://yurim-web.github.io/apple_clone_page2/) |
-| **강남언니 (Clone)** | 뷰티 플랫폼 클론 코딩 | [Live Site](https://yurim-web.github.io/gangnam/index.html) |
