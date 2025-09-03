@@ -6,13 +6,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim-web&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yurim-web&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yurim-web&show_icons=true&theme=radical" height="165"/>
+</p>
 
 ## 🌐 Portfolio
 - [My Website](https://yurim-web.github.io/yurim_portfolio_/)
