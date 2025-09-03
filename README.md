@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Yurim!
 
+## 🚀 About Me
+
+- 🔭 현재 **프론트엔드 개발자**가 되기 위해 공부 중입니다.  
+- 🌱 **React, HTML/CSS/JavaScript** 등 웹 프론트엔드 기술을 학습하고 있습니다.  
+- 🎯 **UI/UX, 웹 디자인**, 그리고 **사용자 친화적인 인터페이스**에 관심이 많습니다.  
+- 💡 언제나 **새로운 기술을 배우고 협업**하는 것에 열려 있습니다.  
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=default" height="165"/>
