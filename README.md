@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurim-web&layout=compact&theme=default" height="165"/>
 </p>
 
 ## 🌐 Portfolio
